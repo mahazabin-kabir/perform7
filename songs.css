@@ -1,0 +1,27 @@
+body{
+                    font-family:'TimesNewRoman',Times,serif;
+                    background-color:rgb(246, 245, 239);
+                    border:45px;}
+                  .box1{
+                    width:500px;
+                    height:100px;
+                    background:rgb(146, 250, 244);
+                    
+                    padding: 3px;
+                    text-align:center;}
+                    .box2{
+                                        width:500px;
+                                        height:100px;
+                                        background:rgb(141, 211, 208);
+                                        
+                                        padding: 3px;
+                                        text-align:center;}
+                    .box3{
+                    width:500px;
+                    height:100px;
+                    background:rgb(55, 163, 158);
+                    
+                    padding: 3px;
+                    text-align:center;}
+                    
+                    
